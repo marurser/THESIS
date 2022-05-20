@@ -1,0 +1,24 @@
+CPPsite 2.0
+Сайт https://webs.iiitd.edu.in/raghava/cppsite/downloads.php
+Были загружены Peptides having natural residues (1564 последовательности)
+Файл natural_pep_CPP20.txt
+
+CellPPD: Designing of Cell Penetrating Peptides
+Сайт https://webs.iiitd.edu.in/raghava/cellppd/dataset.php
+Был загружен CPPsite1 P (708 последовательностей)
+Файл positive_peptides_cellppd_dataset1.txt
+
+C2Pred: A sequence-based tool for identifying cell-penetrating peptides
+Сайт http://lin-group.cn/server/C2Pred
+Были загружены CPPs (411)
+Файл all_cpps.txt
+
+SkipCPP-Pred: Promising Prediction of Cell-Penetrating Peptides Using Adaptive k-skip-2-gram Features
+Сайт http://server.malab.cn/SkipCPP-Pred/Index.html
+Был загружен CPP924 (462)
+Файл first462_positive_SkipCPP-Pred.txt
+
+MLCPP
+Сайт http://www.thegleelab.org/MLCPP/MLCPPData.html
+Был загружен CPP Benchmarking dataset Positive (791)
+Файл GT-positive.txt
